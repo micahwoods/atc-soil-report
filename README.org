@@ -1,1 +1,6 @@
-# atc-soil-report
+#+title: README
+
+This is a public GitGHub repository for issues, feature requests, and bug reports for [[https://www.asianturfgrass.com/project/soil-tests/][ATC's soil report]] (soil nutrient analysis) software.
+
+Please report [[https://github.com/micahwoods/atc-soil-report/issues][issues here]].
+
